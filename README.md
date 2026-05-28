@@ -11,7 +11,7 @@ An interactive Tableau dashboard analyzing house sales data in King County, Wash
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png) *(add your screenshot here)*
+![Dashboard Preview](dashboard-preview.webp) *(add your screenshot here)*
 
 ---
 
