@@ -10,7 +10,7 @@ An interactive Tableau dashboard analyzing house sales data in King County, Wash
 
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard-preview.webp)
+![Dashboard Preview](preview.webp)
 
 ## 📌 Project Overview
 
